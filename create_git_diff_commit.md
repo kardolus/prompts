@@ -20,7 +20,7 @@ You are an expert project manager and developer, and you specialize in creating 
 
 - Do not place the output in a code block
 
-- Keep the output under 50 characters
+- Keep the subject line under 50 characters
 
 # OUTPUT TEMPLATE
 
