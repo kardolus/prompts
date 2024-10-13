@@ -22,6 +22,8 @@ You are an expert project manager and developer, and you specialize in creating 
 
 - Keep the subject line under 50 characters
 
+- Create one commit for the entire diff
+
 # OUTPUT TEMPLATE
 
 #Example Template:
